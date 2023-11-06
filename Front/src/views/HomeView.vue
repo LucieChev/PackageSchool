@@ -1,9 +1,14 @@
 <script setup lang="ts">
-import RetroLink from '../components/RetroLink.vue'
 </script>
 
 <template>
   <main>
-    <RetroLink />
+    <h1>Home</h1>
   </main>
 </template>
+
+<style scoped>
+main{
+  margin-top: 2rem
+}
+</style>
